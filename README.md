@@ -43,7 +43,8 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
 
 ## Tech that I am confident with
 <p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" alt="python" title="Python" width="40" height="40"/></a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" alt="python" title="Python" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/wiki/Azure/ALZ-Bicep/media/bicep-logo.png" alt="bicep" title="Bicep" width="40" height="40"/></a> 
   <a href="https://azure.microsoft.com/en-au" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" alt="azure" title="Azure" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/></a> 
