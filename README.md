@@ -33,7 +33,7 @@ In my spare time, I have worked on several projects
   Developed a script to clean up a local SQL database, improving performance and maintenance efficiency.
 
 - [ASM Watchface](https://github.com/jymmyboi/asm-clockface)
-  Developed a watchface for Fitbit watches in line with a charity gaming event that I was involved in
+  Developed a watchface for Fitbit watches in line with a charity gaming event that I was involved in.
 
 ## Get in Touch
 
