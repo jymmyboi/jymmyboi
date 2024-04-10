@@ -40,7 +40,8 @@ In my spare time, I have worked on several projects
 
 ## Get in Touch
 
-<a href="https://www.linkedin.com/in/james-seton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unixsujan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/james-seton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" title="LinkedIn" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/23215821/jymmyboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/stackoverflow/stackoverflow-original.svg" alt="stackoverflow" title="stackoverflow" height="40" width="40" /></a>
 
 Feel free to reach out to me if you want to collaborate on any projects or just to say hello!
 
