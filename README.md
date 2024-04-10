@@ -35,6 +35,9 @@ In my spare time, I have worked on several projects
 - [ASM Watchface](https://github.com/jymmyboi/asm-clockface)
   Developed a watchface for Fitbit watches in line with a charity gaming event that I was involved in.
 
+- [My website](https://jymmyboi.xyz)
+  Used the Pelican static site generator to create a blog/website to document interesting things I do whether that be in CTFs, my daily life, interesting coding projects.
+
 ## Get in Touch
 
 <a href="https://www.linkedin.com/in/james-seton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unixsujan" height="30" width="40" /></a>
