@@ -58,12 +58,12 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/></a>  
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" alt="JSON" title="JSON" width="40" height="40"/></a>
   <a href="https://getpelican.com/" target="_blank" rel="noreferer"><img src="https://getpelican.com/theme/img/logo.svg" alt="Pelican" title="Pelican" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
 </p>
 
 ## Tech that I am familiar with
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="bash" title="Bash" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/></a>
