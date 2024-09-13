@@ -72,3 +72,5 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
   <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" title="Visual Basic" width="40" height="40"/></a>
   <a href="https://yaml.org/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" alt="YAML" title="YAML" width="40" height="40"/></a>
 </p>
+
+<a href="https://app.daily.dev/jymmyboi"><img src="https://api.daily.dev/devcards/v2/Jx8Z9nlyOZ6DGnG172snN.png?type=wide&r=tgw" width="652" alt="James Seton's Dev Card"/></a>
