@@ -13,9 +13,6 @@ In my spare time, I have worked on several projects
 
 - [Mobile Coffee Timer App](https://github.com/antonkarliner/timer-coffee)
   Contributed to a mobile coffee timer app through learning rudimentary Dart and working with JSON scripts.
-  
-- [Local SQL Database Cleanup Script](https://github.com/jymmyboi/MSSQL-Bulk-Database-Delete)
-  Developed a script to clean up a local SQL database, improving performance and maintenance efficiency.
 
 - [ASM Watchface](https://github.com/jymmyboi/asm-clockface)
   Developed a watchface for Fitbit watches in line with a charity gaming event that I was involved in.
