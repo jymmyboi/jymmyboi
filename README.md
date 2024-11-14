@@ -1,25 +1,10 @@
-### Hi there I'm jymmy 👋
+### Hi there I'm Jimmy 👋
 
-<!--
-**jymmyboi/jymmyboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Skills
 
 - Systems Administration
 - Troubleshooting
 - Server and Network Infrastructure Maintenance
-- Various Programming Languages (Foundational Understanding)
 - Azure Technologies
 
 ## Projects
@@ -54,15 +39,13 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
   <a href="https://git-scm.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/></a> 
   <a href="https://github.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="github" title="GitHub" width="40" height="40"/></a> 
   <a href="https://www.microsoft.com/en-au/sql-server/sql-server-downloads" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MS-SQL" title="MS-SQL" width="40" height="40"/></a> 
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"/></a>  
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/></a>  
-  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" alt="JSON" title="JSON" width="40" height="40"/></a>
-  <a href="https://getpelican.com/" target="_blank" rel="noreferer"><img src="https://getpelican.com/theme/img/logo.svg" alt="Pelican" title="Pelican" width="40" height="40"/></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferer"><img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" title="Godot" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
 </p>
 
 ## Tech that I am familiar with
 <p>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"/></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="bash" title="Bash" width="40" height="40"/></a>
   <a href="https://dart.dev/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/></a>
@@ -72,5 +55,3 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
   <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" title="Visual Basic" width="40" height="40"/></a>
   <a href="https://yaml.org/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" alt="YAML" title="YAML" width="40" height="40"/></a>
 </p>
-
-<a href="https://app.daily.dev/jymmyboi"><img src="https://api.daily.dev/devcards/v2/Jx8Z9nlyOZ6DGnG172snN.png?type=wide&r=tgw" width="652" alt="James Seton's Dev Card"/></a>
