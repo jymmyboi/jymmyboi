@@ -37,13 +37,13 @@ Feel free to reach out to me if you want to collaborate on any projects or just 
   <a href="https://www.microsoft.com/en-au/sql-server/sql-server-downloads" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MS-SQL" title="MS-SQL" width="40" height="40"/></a> 
   <a href="https://godotengine.org/" target="_blank" rel="noreferer"><img src="https://godotengine.org/assets/press/icon_color.png" alt="Godot" title="Godot" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40"/></a>
 </p>
 
 ## Tech that I am familiar with
 <p>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"/></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="bash" title="Bash" width="40" height="40"/></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferer"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/></a>
